@@ -2,12 +2,12 @@
 
 Olá, desenvolvedores e desenvolvedoras! 💻✨  
 Sejam muito bem-vindos ao **Workshop de React** organizado pela **Comissão Discente de Informática**!  
-Aqui, vamos aprender juntinhos a criar um site completo — do zero até o deploy — usando **React.js** 💙  
+Aqui, vamos aprender juntinhos a criar um portifólio completo — do zero até o deploy — usando **React.js** 💙  
 
 ## 🧩 O que você vai encontrar aqui:
-- Um arquivo `estilo.css` prontinho pra deixar seu site lindo 🎨  
-- Um guia para **configurar o ambiente** e **criar o projeto React** sem complicação ⚙️  
-- E claro, muito aprendizado e diversão pelo caminho 😄  
+- Um arquivo `App.css`, que usaremos para estilizar nosso projeto 🎨  
+- Guias de **configuração do ambiente** para Windows e Ubuntu ⚙️  
+- Script para a criação do projeto usando Vite 😄  
 
 ## 💬 Precisa de ajuda?
 Sem estresse! É só chamar a equipe do workshop — estamos por aqui pra te ajudar a resolver qualquer bug (ou pelo menos tentar 😅).  
