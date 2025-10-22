@@ -1,0 +1,4 @@
+npm create vite@latest meu-portfolio
+cd meu-portfolio
+npm install
+npm run dev

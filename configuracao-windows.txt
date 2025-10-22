@@ -1,0 +1,7 @@
+Sext-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+Get-ExecutionPolicy -Scope CurrentUser
+
+npm create vite@latest meu-portfolio
+cd meu-portfolio
+npm install
+npm run dev
