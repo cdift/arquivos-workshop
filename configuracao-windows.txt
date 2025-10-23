@@ -1,4 +1,4 @@
-Sext-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Get-ExecutionPolicy -Scope CurrentUser
 
 npm create vite@latest meu-portfolio
